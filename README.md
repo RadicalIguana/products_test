@@ -6,6 +6,7 @@
 
 - PHP >= 8.4
 - Composer
+- Laravel 12
 
 ## Установка
 
